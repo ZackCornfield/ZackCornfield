@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zack Cornfield</h1>
 <h3 align="center">A passionate Third year student at Murdoch University studying Computer Science and Games Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zackcornfield&label=Profile%20views&color=0e75b6&style=flat" alt="zackcornfield" /> </p>
-
 - 🌱 I’m currently learning **Computer Science and Games Technology**
 
 - 📫 How to reach me **zack.cornfield02@gmail.com**
