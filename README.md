@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zack.cornfield02@gmail.com**
 
-- Portfolio: https://zackcornfield020.wixsite.com/zc-devport
+- Portfolio: https://zackcornfield.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
