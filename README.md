@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zack.cornfield02@gmail.com**
 
-- Portfolio: https://zackcornfield.github.io/
+- Portfolio: [https://zackcornfield.github.io/](https://zackcornfield.github.io/Personal-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
