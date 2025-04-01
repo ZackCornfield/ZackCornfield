@@ -1,9 +1,9 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://zackcornfield.io)
 <h1 align="center">Hi 👋, I'm Zack Cornfield</h1>
-<h3 align="left">A passionate third year student at Murdoch University studying Computer Science and Games Technology</h3>
+<h3 align="left">Computer Science and Games Technology graduate | Aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I’m currently learning **Computer Science and Games Technology**
+- 🌱 Recent graduate in **Computer Science and Games Technology**
 
 - 📫 How to reach me **zack.cornfield02@gmail.com**
 
