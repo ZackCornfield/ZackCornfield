@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://zackcornfield.io)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3eb369cc-7bfc-4d21-81cc-2fcaee7e3d28" />[![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://zackcornfield.io)
 <h1 align="center">Hi 👋, I'm Zack Cornfield</h1>
 <h3 align="left">Computer Science and Games Technology graduate | Aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -51,5 +51,8 @@
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt=".NET" width="40" height="40"/>
     </a>
 </p>
